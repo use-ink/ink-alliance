@@ -1,4 +1,4 @@
-# ink! Alliance task management repo
+# ink! Alliance task management
 
 The sole purpose of this repository is holding issues for the ink! Alliance project board.
 
