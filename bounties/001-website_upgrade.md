@@ -31,7 +31,7 @@ As an inspiration: we like how [https://cosmwasm.com/](https://cosmwasm.com/) is
 - Links to key sections (top right):
     - `Build`: `Documentation`, `Tutorials`, `Tooling`
     - `Community`: `About`, `Bounties`, `Hackathons`, `Support`
-    - `Inkubator` (Funding)
+    - `ink!ubator` (Funding)
     - `Ecosystem` (Chains focusing on ink! and applications build with ink!)
 
 2. Key Features Section (Why Ink!)
