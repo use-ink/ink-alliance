@@ -18,7 +18,7 @@ End of March 2025
 ### Website Structure
 
 #### Home 
-Inspiration: https://cosmwasm.com/
+As an inspiration: we like how [https://cosmwasm.com/](https://cosmwasm.com/) is set up.
 1. Hero Section
 - Tagline: "Building Web3 applications using Rust"
 - Call-to-Action (CTA) Button: 
