@@ -12,7 +12,8 @@ The website should:
 There are already a lot of ink! illustrations in place. We also have a design identity that should be adhered to (see below). The person who did these illustrations can provide further design elements if desired.
 
 ### Project Completion Target
-End of March 2025
+
+The website should be live at the end of March 2025.
 
 ---
 
