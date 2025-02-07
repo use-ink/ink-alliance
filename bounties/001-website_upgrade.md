@@ -2,11 +2,14 @@
 
 ### Objective
 
-Transform the ink! documentation website (https://use.ink/) into a fully functional and engaging website that serves as:
-- A clear entry point for new visitors. 
-- A central hub for developers and contributors (both technical and non-technical).
+The current ink! documentation website (https://use.ink/) is an extensive developer documentation. We want to move this content under `use.ink/docs` and have an engaging website in its place that provides a less overwhelming entry point to ink!.. 
 
-Note: Potential support from the ink! art illustrator if desired.
+The website should:
+- Give a clear understanding of what ink! is and what its strengths are.
+- Explain how it fits into the Polkadot ecosystem.
+- Make further content easily discoverable (tutorials, developer documentation, contract examples, …).
+
+There are already a lot of ink! illustrations in place. We also have a design identity that should be adhered to (see below). The person who did these illustrations can provide further design elements if desired.
 
 ### Project Completion Target
 End of March 2025
