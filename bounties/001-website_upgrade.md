@@ -1,4 +1,4 @@
-# Bounty: Ink! Documentation Website Upgrade
+# Bounty: ink! Documentation Website Upgrade
 
 ### Objective
 
