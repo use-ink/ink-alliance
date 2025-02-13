@@ -7,9 +7,13 @@ The current ink! documentation website (https://use.ink/) is an extensive develo
 The website should:
 - Give a clear understanding of what ink! is and what its strengths are.
 - Explain how it fits into the Polkadot ecosystem.
-- Make further content easily discoverable (tutorials, developer documentation, open bounties, …).
+- Make further content easily discoverable (tutorials, developer documentation, contract examples, open bounties, …).
 
 There are already a lot of ink! illustrations in place. We also have a design identity that should be adhered to (see below). The person who did these illustrations can provide further design elements if desired.
+
+We are currently in the process of developing the next version of ink! (v6), which will run on PolkaVM and RISC-V.
+You can read on the current state of the project [here](https://use.ink/6.x/current-state).
+We are already working on the documentation for v6 here: [https://use.ink/6.x](https://use.ink/6.x).
 
 ### Project Completion Target
 
@@ -21,8 +25,9 @@ The website should be live at the end of March 2025.
 
 ### Website Structure
 
-#### Home 
 As an inspiration: we like how [https://cosmwasm.com/](https://cosmwasm.com/) is set up.
+
+#### Home 
 1. Hero Section
 - Tagline: "Building Web3 applications using Rust"
 - Call-to-Action (CTA) Button: 
@@ -42,12 +47,12 @@ These include:
   - Efficiency → Lightweight & gas-efficient execution. 
   - Modularity → Reusable contract components.  
   - Native to Polkadot.
-  - Interoperability → Built for Polkadot, Kusama, and Substrate chains.
+  - Interoperability → Build for Polkadot, Kusama, and Substrate chains.
 
 #### Build (/build)
 
 A central hub for developers.
-- Documentation: redirects to [the current ink! documentation](https://use.ink/) (which will be placed under `/docs`).
+- Documentation: redirects to [the current ink! documentation](https://use.ink/) (which will be placed under `use.ink/docs`).
   - Some elements from the current docs will be moved to the website you are setting up. The docs should solely focus on documentation and give those other elements a more suitable place (i.e. Funding Programs, Third Party Tools & Libraries, and perhaps more).
 - Tutorials: hands-on guides, categorized if needed.
   - A "Propose a Tutorial" button (links to a bounty proposal template) 
@@ -123,3 +128,57 @@ Proposals will be evaluated by the ink! Alliance based on:
 - Feasibility & innovation of proposed structure.
 - Alignment with budget & timeline.
 - Creativity & UX/UI improvements.
+
+---
+
+## Design Guidelines
+
+Project attributes: 
+
+* Playful, welcoming, easy to approach, inclusive, friendly. 
+* No straight lines/arrows: we made a point of avoiding straight
+  lines in illustrations and design elements. The idea is to
+  have a distinctive look from other technical projects.
+* Polkadot: we want to emphasize that we are part of the Polkadot ecosystem.
+  As such, the Polkadot logo should be visible and this should be clearly 
+  communicated.
+
+We've got a lot of illustrations and design elements (such as arrows and icons).
+You can find them in [this file](https://drive.google.com/file/d/1Y4MAXwP0Fp_VvpgFpC5tYOdDZFkAbaK5/view?usp=sharing).
+
+Most files on [use.ink](https://use.ink/) are online as an SVG, so they could also be reused directly.
+The main logo can be found [here](https://use.ink/6.x/brand-assets/ink).
+
+The fonts we use are either linked here on in the folder linked above.
+Those are:
+
+* Freude: We use this font for titles and anything where a more "interesting" font choice is needed ([example usage](https://use.ink/6.x/current-state))
+* Montserrat is used as the sans serif in technical illustrations/diagrams: [Montserrat](https://fonts.google.com/specimen/Montserrat) ([example usage here](https://use.ink/img/kv.svg))
+* Adobe Source Code Pro is used for monospaced text/code ([example usage](https://use.ink/assets/images/ink-substrate-e79085d5e963e7efd3ce90f17a711ba1.png)).
+* Manifold: the "ink!" text in the main logo is in Manifold. You should have no need to use this font anywhere, we are just writing it out for informational purposes.
+
+We also have a (genderless) "mascot" that is called [Squink](https://use.ink/6.x/brand-assets/ink/).
+There is some backstory on it [here](https://use.ink/6.x/faq#who-is-squink)
+
+To get an idea of the overall look and feel it's best if you click
+through [use.ink](https://use.ink/).
+As mentioned, our illustrator is available to create more icons, design element,
+or illustrations. 
+
+We are putting a mood board here as well:
+
+![5.1](https://use.ink/img/title/ink!-5.1.svg)
+
+![6.x](https://use.ink/img/title/ink!-6.0.svg)
+
+![Q1/25](https://use.ink/img/title/q1-25.svg)
+
+![Schema](https://use.ink/assets/images/ink-substrate-e79085d5e963e7efd3ce90f17a711ba1.png)
+
+![](https://use.ink/assets/images/rpc-ccec58e60565046371859aaacd6475bd.svg)
+
+![](https://use.ink/img/test-smart-contract-with-chain-snapshot.svg)
+
+![](https://use.ink/img/storage-layout.svg)
+
+![Icons](../.images/bounty001-icons.png)
