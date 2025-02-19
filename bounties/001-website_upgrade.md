@@ -105,7 +105,7 @@ You can find details about the program here: [https://use.ink/6.x/funding-progra
 For questions please join the ink! Alliance telegram group: https://t.me/inkathon/2357
 
 ### Application Guidelines
-Email applications to: go@rogue.io
+Email applications to: go@r0gue.io
 Include the following:
 - Portfolio: Examples of previous projects showcasing relevant work.
 - Proposed Website Structure:
