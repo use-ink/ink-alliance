@@ -6,6 +6,12 @@
 - **Title**: Debugging Smart Contracts
   - **Description**: Learn how to debug ink! smart contracts effectively. Inspired by [Base’s Hardhat Debugging tutorial](https://docs.base.org/tutorials/hardhat-debugging), this covers debugging tools, techniques for tracing errors, and practical examples of resolving common issues in ink! contract development.
 
+- **Title**: Cross Contract Calling
+  - **Description**: This tutorial covers the multiple syntax options for calling one contract from another, their workflows, and best practices, with examples to clarify setup, execution, and common pitfalls.
+
+- **Title**: Ink! and XCM
+  - **Description**: An introduction to using ink! with Cross-Consensus Messaging (XCM) for cross-chain interactions, based on [ink!’s XCM basics](https://use.ink/basics/xcm). Covers what XCM is, how ink! contracts can send or receive XCM messages, and a simple example of cross-chain communication.
+
 - **Title**: Verify a Smart Contract
   - **Description**: Step-by-step instructions to verify an ink! smart contract on a blockchain explorer, ensuring transparency and trust. Inspired by [Base’s Basescan Verification tutorial](https://docs.base.org/tutorials/verify-smart-contract-using-basescan), it adapts the process for ink! contracts on networks like Pop Network, including tools and verification workflows.
 
@@ -27,8 +33,3 @@
 - **Title**: Using Subxt to Interact with Subxt
   - **Description**: Guide the developer how to integrate Subxt with ink! smart contracts. This tutorial covers setup, basic usage, and an example.
 
-- **Title**: Cross Contract Calling
-  - **Description**: This tutorial covers the multiple syntax options for calling one contract from another, their workflows, and best practices, with examples to clarify setup, execution, and common pitfalls.
-
-- **Title**: Ink! and XCM
-  - **Description**: An introduction to using ink! with Cross-Consensus Messaging (XCM) for cross-chain interactions, based on [ink!’s XCM basics](https://use.ink/basics/xcm). Covers what XCM is, how ink! contracts can send or receive XCM messages, and a simple example of cross-chain communication.
