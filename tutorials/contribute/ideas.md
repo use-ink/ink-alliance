@@ -1,6 +1,6 @@
 ### Ideas
 
-If you have an idea for a tutorial? Please make a PR adding it to this list!
+If you have an idea for a tutorial, please make a PR adding it to this list!
 
 - **Title**: Writing Your First Smart Contract
   - **Description**: Step-by-step instructions on creating a simple ink! contract, explaining key concepts like storage and messages.
