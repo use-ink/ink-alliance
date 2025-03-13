@@ -32,6 +32,6 @@ If you have an idea for a tutorial? Please make a PR adding it to this list!
 - **Title**: Using Dedot with ink! Smart Contracts
   - **Description**: Guide the developer how to integrate Dedot with ink! smart contracts. This tutorial covers setup, basic usage, and an example.
 
-- **Title**: Using Subxt to Interact with Subxt
+- **Title**: Using Subxt to Interact with ink! Smart Contracts
   - **Description**: Guide the developer how to integrate Subxt with ink! smart contracts. This tutorial covers setup, basic usage, and an example.
 
