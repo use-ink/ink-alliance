@@ -3,8 +3,7 @@ Welcome to the ink! Alliance – a collective initiative to grow, maintain, and 
 
 The ink! Alliance meets bi-weekly to plan development priorities, explore product improvements, and manage community projects—such as developing the new ink! website ([more info](.//bounties/001-website_upgrade.md)). Meeting notes are publicly recorded in [this repository](./meetings). 
 
-To manage intellectual property, the Alliance established Use Ink Ltd. in the UK. Much of the funding comes from the Polkadot Treasury, and the proposals are fully transparent—the latest major
-one can be viewed [here](./proposals/001-ink!_Alliance_for_a_more_successful_Plaza.md). Once approved, treasury funds are transferred to a multisig wallet, maintained by four curators (requiring 3 approvals):
+To manage intellectual property, the Alliance established Use Ink Ltd. in the UK. Much of the funding comes from the Polkadot Treasury, and the [proposals](./proposals) are fully transparent. Once approved, treasury funds are transferred to a multisig wallet, maintained by four curators (requiring 3 approvals):
 - https://github.com/cmichi – Former ink! lead at Parity
 - R0GUE – Team behind [Pop](https://onpop.io/)
 - Polytope Labs – Team behind [Hyperbridge](https://hyperbridge.network/)
