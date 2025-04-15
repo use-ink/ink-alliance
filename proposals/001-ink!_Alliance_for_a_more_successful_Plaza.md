@@ -5,6 +5,7 @@ Date: Aug 2024
 - [Proposal](https://docs.google.com/document/d/1-XprsFVOIkDSHpnGDMg0pKuswU_S0YHLdWLNtlsmJfw/edit?tab=t.0#heading=h.v6is2ta0txr1)
 - [Referenda](http://polkadot.polkassembly.io/referenda/1123)
 - [Forum post](https://forum.polkadot.network/t/treasury-ink-alliance-for-a-more-successful-plaza/9692)
+  - [6 months update](https://forum.polkadot.network/t/ink-alliance-six-month-progress-update/12196)
 
 ### Objectives
 
