@@ -18,7 +18,7 @@ The ink! Alliance exists to make smart contract development on Polkadot easy, se
 - Unifying the branding, messaging, and experience around ink!
 
 ## Get Involved
-Website: https://use.ink
-Twitter: https://x.com/ink_lang
-Telegram: https://t.me/inkathon/2357
-GitHub: github.com/use-ink
+- Website: https://use.ink
+- Twitter: https://x.com/ink_lang
+- Telegram: https://t.me/inkathon/2357
+- GitHub: github.com/use-ink
